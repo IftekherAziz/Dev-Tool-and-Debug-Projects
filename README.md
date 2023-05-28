@@ -1,6 +1,4 @@
-# Module 43
-
-<!-- Quiz -->
+# <!-- Quiz -->
 
 1.The keyboard shortcut for clearing the console in Chrome DevTools is:
 
